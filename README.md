@@ -5,7 +5,7 @@
 Image Credit: [Pexels](https://www.pexels.com/).
 
 
-# Paas API Integration Architecture with iOS App
+# PaaS API Integration Architecture with iOS App
 #### Architecture Diagram Credit: Copyright @ 2026 Susmita De 
 
 ![API](https://github.com/desusmita001/Cloverly/blob/main/screenshots/architecture.png)
